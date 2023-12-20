@@ -3,7 +3,6 @@ const {
   loginController,
   registerController,
 } = require("../controllers/userController");
-// const validation = require("../middleware/validations");
 
 //router object
 const router = express.Router();
